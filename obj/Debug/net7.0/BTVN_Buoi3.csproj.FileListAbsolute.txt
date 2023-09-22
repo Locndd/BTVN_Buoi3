@@ -1,0 +1,14 @@
+C:\Users\Bài Tập Unity\BTVN_Buoi3\bin\Debug\net7.0\BTVN_Buoi3.exe
+C:\Users\Bài Tập Unity\BTVN_Buoi3\bin\Debug\net7.0\BTVN_Buoi3.deps.json
+C:\Users\Bài Tập Unity\BTVN_Buoi3\bin\Debug\net7.0\BTVN_Buoi3.runtimeconfig.json
+C:\Users\Bài Tập Unity\BTVN_Buoi3\bin\Debug\net7.0\BTVN_Buoi3.dll
+C:\Users\Bài Tập Unity\BTVN_Buoi3\bin\Debug\net7.0\BTVN_Buoi3.pdb
+C:\Users\Bài Tập Unity\BTVN_Buoi3\obj\Debug\net7.0\BTVN_Buoi3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bài Tập Unity\BTVN_Buoi3\obj\Debug\net7.0\BTVN_Buoi3.AssemblyInfoInputs.cache
+C:\Users\Bài Tập Unity\BTVN_Buoi3\obj\Debug\net7.0\BTVN_Buoi3.AssemblyInfo.cs
+C:\Users\Bài Tập Unity\BTVN_Buoi3\obj\Debug\net7.0\BTVN_Buoi3.csproj.CoreCompileInputs.cache
+C:\Users\Bài Tập Unity\BTVN_Buoi3\obj\Debug\net7.0\BTVN_Buoi3.dll
+C:\Users\Bài Tập Unity\BTVN_Buoi3\obj\Debug\net7.0\refint\BTVN_Buoi3.dll
+C:\Users\Bài Tập Unity\BTVN_Buoi3\obj\Debug\net7.0\BTVN_Buoi3.pdb
+C:\Users\Bài Tập Unity\BTVN_Buoi3\obj\Debug\net7.0\BTVN_Buoi3.genruntimeconfig.cache
+C:\Users\Bài Tập Unity\BTVN_Buoi3\obj\Debug\net7.0\ref\BTVN_Buoi3.dll
